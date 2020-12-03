@@ -1,5 +1,5 @@
 # Example:
-[![CircleCI](https://circleci.com/gh/tinix84/test_circleCI.svg?style=svg)](https://circleci.com/gh/tinix84/test_circleCI
+[![CircleCI](https://circleci.com/gh/tinix84/test_circleCI.svg?style=shield)](https://circleci.com/gh/tinix84/test_circleCI
 )
 
 # test_circleCI
